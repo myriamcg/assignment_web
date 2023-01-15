@@ -124,7 +124,7 @@ body{
 
 }
 #footer_id{
-  position: fixed;
+  position: absolute;
   bottom: 0;
   width: 80%;
   text-align: right;
